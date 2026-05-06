@@ -1,0 +1,506 @@
+CREATE A PREMIUM CORPORATE PERSONAL LOAN DSA WEBSITE FOR “AM FUND”
+
+==================================================
+WEBSITE STYLE
+=============
+
+Modern corporate finance website.
+Premium banking-style UI.
+Blue + white finance ecosystem theme.
+Minimal, clean, high-trust layout.
+Luxury fintech-style design.
+Mobile-first responsive experience.
+
+IMPORTANT:
+
+* Website should focus ONLY on PERSONAL LOAN services
+* Do NOT mention business loans or other loan products
+* Avoid local finance office appearance
+* Corporate banking ecosystem feel required
+* Premium modern layout
+* Smooth section transitions
+* High-conversion DSA onboarding structure
+* Trust-building design
+* Use modern icons, finance UI blocks, statistics and premium cards
+
+==================================================
+GLOBAL DESIGN SYSTEM
+====================
+
+COLORS:
+Primary Blue: #0B5CFF
+Dark Navy: #081B33
+Light Blue Accent: #EAF2FF
+White Backgrounds
+
+FONTS:
+Headings → Poppins Bold
+Body → Inter Regular
+
+UI STYLE:
+Rounded modern cards
+Soft shadows
+Glassmorphism finance blocks
+Minimal hover animations
+Premium spacing
+Corporate typography
+Smooth reveal animations
+Modern banking dashboard feel
+
+==================================================
+TOP NAVIGATION BAR
+==================
+
+LEFT:
+AM FUND Logo
+
+CENTER MENU:
+Home
+About
+Partner Program
+Benefits
+Process
+Training
+FAQ
+Contact
+
+RIGHT:
+Primary CTA Button:
+“Become a Partner”
+
+NAVBAR STYLE:
+Sticky transparent navbar.
+Glassmorphism effect on scroll.
+Smooth navigation scrolling.
+
+==================================================
+SECTION 1 — HERO SECTION
+========================
+
+FULL SCREEN PREMIUM HERO
+
+IMPORTANT:
+
+* Remove all human portrait style images
+* Do NOT use black coat or sunglasses style person visuals
+* Avoid human-focused hero images
+
+LEFT SIDE:
+
+MAIN HEADING:
+India’s Trusted Personal Loan Connector Network
+
+SUBHEADING:
+Helping freelancers, connectors, bank employees and referral partners generate additional income opportunities through personal loan referrals.
+
+TRUST LINE:
+20,000+ Customers Assisted
+500+ Active Freelancers
+Trusted Personal Loan Partner Network
+
+CTA BUTTONS:
+[ Become Partner ]
+[ Watch Training ]
+
+RIGHT SIDE VISUAL:
+Modern banking dashboard
+Mobile finance UI
+Personal loan earnings analytics
+Floating income cards
+Money growth visualization
+Professional fintech ecosystem graphics
+Blue glowing banking visuals
+Corporate finance dashboard
+
+BACKGROUND:
+Dark navy blue gradient with soft blue glow effects.
+
+==================================================
+SECTION 2 — BANK & FINANCE PARTNER LOGO MARQUEE
+===============================================
+
+POSITION:
+Place directly below HERO SECTION.
+
+STYLE:
+Premium white finance strip.
+Rounded container.
+Soft glow background.
+Large-scale banking ecosystem appearance.
+
+IMPORTANT:
+
+* ONLY display ORIGINAL FULL LOGOS
+* Do NOT display bank names as plain text
+* Logos must auto-scroll infinitely from right to left
+* Smooth premium marquee animation
+* Seamless continuous loop
+* No jerky movement
+* Logos should appear LARGE and PREMIUM
+* Highlight logos strongly
+* Maintain original brand colors
+* Equal logo size and spacing
+* Use SVG transparent logos
+* Add hover glow effect
+* Add slight hover zoom
+* Add gradient fade blur on left and right edges
+* Mobile optimized
+
+ADD THESE LOGOS:
+
+AXIS BANK
+HDFC BANK
+ICICI BANK
+KOTAK MAHINDRA BANK
+YES BANK
+DBS BANK
+INDUSIND BANK
+BANDHAN BANK
+IDFC FIRST BANK
+INCRED
+CREDIT SAISON
+SMFG
+CSB BANK
+MUTHOOT FINANCE
+AXIS FINANCE
+TATA CAPITAL
+CHOLAMANDALAM FINANCE
+PAYSENSE
+FINNABLE
+BAJAJ FINANCE
+ADITYA BIRLA CAPITAL
+HERO FINCORP
+POONAWALA FINCORP
+PIRAMAL FINANCE
+
+==================================================
+SECTION 3 — TRUST BAR
+=====================
+
+Premium statistics strip.
+
+DISPLAY:
+
+✔ 20,000+ Customers Assisted
+✔ 500+ Active Freelancers
+✔ Trusted Personal Loan Support
+✔ Fast Coordination
+✔ Professional Workflow
+✔ PAN India Network
+
+Use animated counters.
+
+==================================================
+SECTION 4 — ABOUT AM FUND
+=========================
+
+HEADING:
+About AM Fund
+
+CONTENT:
+AM Fund is a growing personal loan connector and referral support network helping freelancers, connectors, sales professionals and referral partners coordinate personal loan opportunities through a professional workflow system.
+
+We focus on customer coordination, document guidance, application support and partner assistance through structured personal loan processing support.
+
+RIGHT SIDE VISUAL:
+Corporate office illustration
+Minimal finance icons
+Modern banking visuals
+
+==================================================
+SECTION 5 — WHY CONNECTORS JOIN US
+==================================
+
+HEADING:
+Why Connectors Prefer AM Fund
+
+PREMIUM BENEFIT CARDS:
+
+Flexible Work Opportunity
+Work From Anywhere
+Training & Guidance Support
+Fast Team Coordination
+Additional Income Opportunity
+Simple Personal Loan Workflow
+Professional Support System
+Dedicated Partner Assistance
+
+CARD STYLE:
+Glassmorphism finance cards.
+Hover animations.
+Blue glowing icons.
+
+==================================================
+SECTION 6 — PERSONAL LOAN SERVICES
+==================================
+
+HEADING:
+Personal Loan Support Services
+
+SERVICE CARDS:
+
+Personal Loan Assistance
+Salary Employee Loan Support
+Document Guidance
+Customer Coordination
+Application Follow-Up
+Fast Process Handling
+
+EACH CARD:
+Finance icon
+Minimal description
+Modern corporate card layout
+
+==================================================
+SECTION 7 — HOW THE PROCESS WORKS
+=================================
+
+HEADING:
+Simple Partner Workflow
+
+MODERN HORIZONTAL TIMELINE:
+
+STEP 1: Partner Registration
+STEP 2: Training & Guidance
+STEP 3: Customer Referral
+STEP 4: Document Collection
+STEP 5: Personal Loan Processing
+STEP 6: Approval & Disbursement
+STEP 7: Partner Benefit Support
+
+Use premium animated timeline UI.
+
+==================================================
+SECTION 8 — WHO CAN JOIN
+========================
+
+HEADING:
+Who Can Become a Partner?
+
+GRID CARDS:
+
+Freelancers
+DSA Connectors
+Bank Employees
+Insurance Agents
+Sales Executives
+Financial Consultants
+Field Agents
+Recruiters
+
+BOTTOM TEXT:
+No large investment required.
+Flexible work opportunity.
+
+==================================================
+SECTION 9 — TRAINING SECTION
+============================
+
+HEADING:
+Step-by-Step Personal Loan Connector Training
+
+LEFT SIDE:
+Embedded vertical training video mockup.
+
+RIGHT SIDE CONTENT:
+
+How to find personal loan customers
+How to communicate professionally
+Lead collection basics
+Document handling guidance
+Customer follow-up support
+Daily workflow planning
+
+BUTTON:
+Start Training
+
+==================================================
+SECTION 10 — PARTNER BENEFITS
+=============================
+
+HEADING:
+Partner Benefits
+
+PREMIUM BENEFIT CARDS:
+
+Additional Monthly Income
+Flexible Timing
+Remote Work Opportunity
+Lead Assistance Support
+Performance Growth Opportunity
+Professional Coordination Support
+
+BOTTOM:
+Display:
+“Total Partner Payouts: ₹1,00,000+”
+
+Use glowing finance counter UI and animated earnings chart.
+
+==================================================
+SECTION 11 — PERFORMANCE STATISTICS
+===================================
+
+DARK PREMIUM SECTION
+
+DISPLAY:
+
+20,000+ Customers Assisted
+500+ Active Freelancers
+24/7 Support Coordination
+Fast Process Handling
+
+Use animated counters and glowing finance UI.
+
+==================================================
+SECTION 12 — TESTIMONIALS
+=========================
+
+HEADING:
+Partner Experiences
+
+MODERN TESTIMONIAL CARDS:
+
+“Professional personal loan coordination support.”
+“Easy onboarding and smooth workflow.”
+“Good support system for new connectors.”
+
+Avoid fake or overacting reviews.
+
+==================================================
+SECTION 13 — FAQ SECTION
+========================
+
+MODERN ACCORDION DESIGN
+
+QUESTIONS:
+
+How does the partner program work?
+Who can join?
+Is prior experience required?
+Will training be provided?
+Can I work part-time?
+How are personal loan referrals handled?
+Will support be available?
+
+==================================================
+SECTION 14 — FINAL CTA SECTION
+==============================
+
+LARGE PREMIUM CTA BANNER
+
+HEADING:
+Start Your Personal Loan Partner Journey Today
+
+SUBHEADING:
+Join AM Fund’s growing personal loan connector network.
+
+BUTTONS:
+[ Become Partner ]
+[ Contact Team ]
+
+BACKGROUND:
+Dark blue glowing gradient with premium lighting.
+
+==================================================
+SECTION 15 — CONTACT SECTION
+============================
+
+IMPORTANT:
+
+* Remove Partner Application Form completely
+* Do NOT show application fields or submit form
+
+CREATE A PREMIUM CONTACT SECTION.
+
+DISPLAY:
+
+Phone Number:
+7448320030
+
+Address:
+Head Office:
+No.118A, 11th St,
+New Choudhary Nagar,
+Valasaravakkam,
+Chennai,
+Tamil Nadu 600087
+
+STYLE:
+Premium finance contact cards
+Glassmorphism effect
+Corporate office appearance
+Modern contact UI
+
+ADD:
+WhatsApp icon
+Call icon
+Location icon
+
+==================================================
+FOOTER
+======
+
+COLUMNS:
+
+Quick Links
+Partner Program
+Privacy Policy
+Terms & Conditions
+Contact Information
+
+CONTACT DETAILS:
+
+Phone:
+7448320030
+
+Address:
+Head Office:
+No.118A, 11th St,
+New Choudhary Nagar,
+Valasaravakkam,
+Chennai,
+Tamil Nadu 600087
+
+BOTTOM:
+© 2026 AM Fund. All Rights Reserved.
+
+==================================================
+EXTRA PREMIUM FEATURES
+======================
+
+Floating WhatsApp Button
+Sticky CTA Button
+Animated Statistics
+Glassmorphism Finance Cards
+Professional FAQ Accordion
+Smooth Reveal Animations
+Corporate Finance Icons
+Modern Dashboard UI
+Premium Banking Effects
+Fully Mobile Responsive
+
+==================================================
+AVOID
+=====
+
+Too much text
+Random colors
+Cheap stock images
+Local finance office feel
+Overcrowded sections
+Heavy animations
+
+==================================================
+FINAL WEBSITE FEEL
+==================
+
+Corporate
+Modern
+Premium
+Trustworthy
+Minimal
+Professional
+High-conversion
+Fintech-style
+Personal-loan-focused
+Large-scale banking ecosystem feel
