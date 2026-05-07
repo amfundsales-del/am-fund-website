@@ -155,4 +155,41 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // 7. Robust Seamless Infinite Marquee Loader
+    const track = document.getElementById('logoTrack');
+    if (track) {
+        const images = track.querySelectorAll('img');
+        let loadedCount = 0;
+
+        const initSlider = () => {
+            // Convert grid to slider
+            track.classList.remove('grid-fallback');
+            track.classList.add('slider-active');
+
+            // Clone all original children to make a seamless infinite loop
+            const children = Array.from(track.children);
+            children.forEach(child => {
+                const clone = child.cloneNode(true);
+                clone.setAttribute('aria-hidden', 'true'); // Hide from screen readers
+                track.appendChild(clone);
+            });
+        };
+
+        if (images.length === 0) {
+            initSlider();
+        } else {
+            images.forEach(img => {
+                if (img.complete) {
+                    loadedCount++;
+                    if (loadedCount === images.length) initSlider();
+                } else {
+                    img.onload = img.onerror = () => {
+                        loadedCount++;
+                        if (loadedCount === images.length) initSlider();
+                    };
+                }
+            });
+        }
+    }
+
 });

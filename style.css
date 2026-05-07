@@ -251,15 +251,15 @@ img {
 }
 
 .brand-logo {
-    height: 80px; /* லோகோவின் உயரம் */
-    width: auto;  /* நீளம் தானாகவே லென்த்தாக அமையும் */
+    height: 100px; /* லோகோவின் உயரம் அதிகரிப்பு */
+    width: auto;
     object-fit: contain;
     display: block;
     transition: transform 0.3s ease, height 0.3s ease;
 }
 
 .navbar.scrolled .brand-logo {
-    height: 65px;
+    height: 75px;
 }
 
 .nav-links {
@@ -477,9 +477,98 @@ img {
 /* ==========================================================================
    Logo Marquee
    ========================================================================== */
+.bank-partners-section {
+    background: var(--white);
+    padding: 60px 0;
+    overflow: hidden;
+    width: 100%;
+}
 
+.marquee-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    padding: 20px 0;
+}
 
-/* ==========================================================================
+/* Fallback Grid (No JS or Loading) */
+.logo-track.grid-fallback {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 20px;
+    justify-content: center;
+}
+
+/* Slider Track (JS Enabled) */
+.logo-track.slider-active {
+    display: flex;
+    gap: 40px;
+    width: max-content;
+    animation: scroll-seamless 40s linear infinite;
+    align-items: center;
+}
+
+.logo-track.slider-active:hover {
+    animation-play-state: paused;
+}
+
+.bank-card {
+    background: #ffffff;
+    padding: 15px 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+    border: 1px solid #f0f0f0;
+    min-width: 180px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: var(--transition-smooth);
+}
+
+.bank-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(11, 92, 255, 0.15);
+    border-color: rgba(11, 92, 255, 0.3);
+}
+
+.bank-card img {
+    width: auto;
+    height: 60px;
+    max-width: 160px;
+    object-fit: contain;
+    display: block;
+}
+
+/* Fallback Styling for Missing Logos */
+.bank-fallback {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    width: 100%;
+    text-align: center;
+}
+
+.bank-fallback i {
+    font-size: 1.8rem;
+    color: var(--primary-blue);
+}
+
+.bank-fallback span {
+    font-size: 0.85rem;
+    font-weight: 600;
+    line-height: 1.2;
+    color: var(--dark-navy);
+}
+
+@keyframes scroll-seamless {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+}/* ==========================================================================
    Trust Bar
    ========================================================================== */
 .trust-bar {
@@ -1212,7 +1301,7 @@ img {
 }
 
 .footer-logo {
-    height: 80px;
+    height: 100px;
     width: auto;
     margin-bottom: 15px;
     filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
