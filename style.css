@@ -207,7 +207,7 @@ img {
     width: 100%;
     z-index: 1000;
     transition: var(--transition-smooth);
-    padding: 20px 0;
+    padding: 5px 0; /* Reduced padding for a tighter header */
 }
 
 .navbar.scrolled {
@@ -215,7 +215,7 @@ img {
     backdrop-filter: blur(15px);
     -webkit-backdrop-filter: blur(15px);
     box-shadow: var(--shadow-sm);
-    padding: 15px 0;
+    padding: 5px 0; /* Reduced padding */
     border-bottom: 1px solid var(--glass-border);
 }
 
@@ -251,7 +251,7 @@ img {
 }
 
 .brand-logo {
-    height: 100px; /* லோகோவின் உயரம் அதிகரிப்பு */
+    height: 85px; /* Slightly tightened to reduce empty visual space */
     width: auto;
     object-fit: contain;
     display: block;
@@ -259,7 +259,7 @@ img {
 }
 
 .navbar.scrolled .brand-logo {
-    height: 75px;
+    height: 65px;
 }
 
 .nav-links {
